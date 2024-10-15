@@ -6,14 +6,14 @@
 - With a passion for technology and problem-solving, I bring over two years of
 - experience in data analytics and hypothesis testing to my projects.
 - 🌱 I’m currently learning ...
-- - Advanced techniques in Natural Language Processing.
-- Cloud architecture and services to enhance data
+- Advanced techniques in Natural Language Processing.
+- Cloud architecture and services to enhance data.
 - processing and storage solutions.
 - 💞️ I’m looking to collaborate on ...
-- - Open-source projects focusing on data analytics and machine learning.
+- Open-source projects focusing on data analytics and machine learning.
 - Initiatives that aim to use technology to solve real-world problems.
 - 📫 How to reach me ...
-- - 📧 Email: mvinay2025@gmail.com
+- 📧 Email: mvinay2025@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/vinay-mattapalli-14580924b
 - 😄 Pronouns: ... He/Him
 
