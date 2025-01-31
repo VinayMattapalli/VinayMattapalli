@@ -17,10 +17,15 @@ I am a Machine Learning Engineer and Data Scientist with expertise in predictive
 
 💡 Projects & Contributions
 🔹 RAG Chatbot Vinay – A Retrieval-Augmented Generation (RAG) chatbot project designed for intelligent information retrieval.
-🔹 Analysis of Variable Factors Impacting Flight Prices – Explored and analyzed factors affecting flight prices using advanced data analysis techniques.
+
+🔹 Analysis of Variable Factors Impacting Flight Prices –Explored and analyzed factors affecting flight prices using advanced data analysis techniques.
+
 🔹 Simulation of Emergency Evacuation – Developed a simulation to optimize emergency evacuation strategies using ASP.NET.
+
 🔹 Social Media Impact on Zara – Analyzed social media engagement's impact on Zara's marketing campaigns using Python.
+
 🔹 IoT Driving Style Assessment – Built a system to assess driving styles based on IoT sensor data.
+
 🚀 More projects on my GitHub!
 
 🤝 Looking to Collaborate On
