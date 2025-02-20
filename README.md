@@ -9,7 +9,7 @@
 I am a Machine Learning Engineer and Data Scientist with expertise in predictive modeling, deep learning, and scalable system design.
 My passion lies in leveraging AI to solve real-world challenges through NLP, Computer Vision, and Generative AI.
 
-  🔹 1+ years of experience in AI/ML, data analytics, and cloud computing
+  🔹 3+ years of experience in AI/ML, data analytics, and cloud computing
 
   🔹 Skilled in Python, TensorFlow, PyTorch, and SQL for data-driven decision-making
 
