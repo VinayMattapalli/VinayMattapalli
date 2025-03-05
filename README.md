@@ -1,60 +1,59 @@
-👋 Hi, I'm Vinay Mattapalli!
+# 👋 Hi, I'm Vinay Mattapalli!
 
-🎓 Graduate Student | AI & ML Enthusiast | Data Scientist
+🎓 **Graduate Student | AI & ML Engineer | Data Scientist**  
+📍 **University of North Texas | Passionate about building intelligent systems**  
 
-📍 University of North Texas | Passionate about building intelligent systems
+---
 
-🚀 About Me
+## 🚀 About Me
 
-I am a Machine Learning Engineer and Data Scientist with expertise in predictive modeling, deep learning, and scalable system design.
-My passion lies in leveraging AI to solve real-world challenges through NLP, Computer Vision, and Generative AI.
+I am a **Machine Learning Engineer and Data Scientist** specializing in **predictive modeling, deep learning, and scalable AI systems**. My passion lies in leveraging AI to **solve real-world challenges** through NLP, Computer Vision, and Generative AI.
 
-  🔹 3+ years of experience in AI/ML, data analytics, and cloud computing
+### 🔹 **Key Expertise**
+- **AI & Machine Learning**: Generative AI, Deep Learning, NLP, Computer Vision  
+- **Programming**: Python, TensorFlow, PyTorch, Scikit-Learn, SQL  
+- **Cloud & MLOps**: AWS, Azure, SageMaker, Kubernetes, CI/CD Pipelines  
+- **Data Science & Analytics**: Feature Engineering, Data Visualization, Model Optimization  
 
-  🔹 Skilled in Python, TensorFlow, PyTorch, and SQL for data-driven decision-making
+---
 
-  🔹 Experienced in cloud platforms (AWS, Azure) and MLOps (Docker, Kubernetes, CI/CD)
+## 🌟 **Featured Projects**
+### 🔹 **Mine or Rock Detection (Python, ML, Logistic Regression, Gradio)**
+🔗 **GitHub:** [Mine or Rock Detector](https://github.com/VinayMattapalli/Mine-or-Rock-Detection)  
+- Developed a **machine learning model** using **Logistic Regression** to classify **sonar signals** as **Mine or Rock**.  
+- Achieved **88% accuracy** through **feature selection & hyperparameter tuning**.  
+- Integrated **Gradio UI**, enabling real-time predictions with a user-friendly interface.  
 
-  🔹 Enthusiastic about contributing to open-source projects and AI research
+### 🔹 **Diabetes Prediction System (Python, SVM, Random Forest, Gradio)**
+🔗 **GitHub:** [Diabetes Prediction Model](https://github.com/VinayMattapalli/Diabetes-Prediction-Model)  
+- Built an **AI-driven system** to predict diabetes risk using **SVM & Random Forest**.  
+- Improved accuracy from **79% to 85%** by optimizing hyperparameters and feature scaling.  
+- Implemented an interactive **Gradio web interface** for real-time predictions with probability confidence.  
 
-🌱 Currently Learning & Exploring
+### 🔹 **RAG Chatbot Vinay (Python, FAISS, LangChain, OpenAI API)**
+- Built a **Retrieval-Augmented Generation (RAG)** chatbot for **intelligent information retrieval**.
+- Integrated **vector search using FAISS** to improve retrieval precision by **25%**.
+- Hosted inference models on **AWS** for **real-time AI responses**.
 
-  📌 Advanced Natural Language Processing (NLP) – Large Language Models (LLMs), Transformers, BERT, GPT
+---
 
-  📌 MLOps & Cloud Deployments – AWS SageMaker, Kubernetes, Docker, CI/CD pipelines
+## 🌱 **Currently Learning & Exploring**
+📌 **Advanced NLP** – Large Language Models (LLMs), Transformers, BERT, GPT  
+📌 **MLOps & Cloud Deployments** – AWS SageMaker, Kubernetes, Docker, CI/CD pipelines  
+📌 **AI for Automation** – Conversational AI, AI-powered assistants, and intelligent workflows  
 
-  📌 AI for Automation – Conversational AI, AI-powered assistants, and intelligent workflows
+---
 
-💡 Projects & Contributions
+## 🤝 **Looking to Collaborate On**
+✅ Open-source projects in AI, NLP, Computer Vision, and MLOps  
+✅ AI-driven research and development in **cutting-edge technologies**  
+✅ Innovative solutions leveraging **AI for automation & social impact**  
 
-  🔹 RAG Chatbot Vinay – A Retrieval-Augmented Generation (RAG) chatbot project designed for intelligent information retrieval.
+---
 
-  🔹 Analysis of Variable Factors Impacting Flight Prices –Explored and analyzed factors affecting flight prices using advanced data analysis techniques.
+## 📬 **How to Reach Me?**
+📧 Email: **mvinay2025@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/vinay-mattapalli-14580924b](https://linkedin.com/in/vinay-mattapalli-14580924b)  
+😄 Pronouns: **He/Him**  
 
-  🔹 Simulation of Emergency Evacuation – Developed a simulation to optimize emergency evacuation strategies using ASP.NET.
-
-  🔹 Social Media Impact on Zara – Analyzed social media engagement's impact on Zara's marketing campaigns using Python.
-
-  🔹 IoT Driving Style Assessment – Built a system to assess driving styles based on IoT sensor data.
-
-🚀 More projects on my GitHub!
-
-🤝 Looking to Collaborate On
-
-  ✅ Open-source projects in AI, NLP, Computer Vision, and MLOps
-
-  ✅ Innovative solutions that leverage AI for social impact and automation
-
-  ✅ AI-driven research and development in cutting-edge technologies
-
-
-📬 How to Reach Me?
-
-  📧 Email: mvinay2025@gmail.com
-
-  🔗 LinkedIn: linkedin.com/in/vinay-mattapalli-14580924b
-
-  😄 Pronouns: He/Him
-
-  🚀 Always excited to connect and collaborate on AI-driven innovations!
-
+🚀 **Always excited to connect and collaborate on AI-driven innovations!**  
